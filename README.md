@@ -72,4 +72,4 @@ int main() {
 
 * [Згадуємо С та основні бібліотеки](https://[https://www.tutorialspoint.com/c_standard_library/c_function_rand.htm)
 * [Робота з freeBSD](https://https://acode.com.ua/search-files-linux/#toc-14)
-* [Робота з Readme
+* [Робота з Readme](https://https://habr.com/ru/articles/649363/)
